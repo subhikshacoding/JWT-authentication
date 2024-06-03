@@ -1,0 +1,15 @@
+.container-name{
+    width: 100%;
+    background-color: lavender;
+    height:600px;
+    align-items: center;
+    justify-content: center;
+}
+
+.name{
+    width: 100%;
+   text-transform: capitalize;
+    color: darkred;
+    font-size: 50px;
+
+}

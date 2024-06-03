@@ -1,0 +1,25 @@
+.container{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+    margin-top: 100px;
+  
+}
+input{
+    width: 250px;
+    height: 20px;
+    border: 2px solid red;
+}
+button{
+    width: 150px;
+    border: 2px solid green;
+}
+label{
+    text-transform: capitalize;
+}
+
+
